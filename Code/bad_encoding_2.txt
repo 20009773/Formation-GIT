@@ -1,0 +1,3 @@
+On ajoute channelWEB ? la place de l'appel ? isCmdWEBIta_Pyxis pour ?viter d'appeler CCLI ? chaque article
+Probl?me initialisation variable
+

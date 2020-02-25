@@ -1,0 +1,49 @@
+#!/bin/bash
+# Usage: Define salt with your trigram
+# -------------------------------------------------
+
+read -p "Enter your trigram: "  trigram
+echo "Welcome $trigram!"
+echo "I can say your salt is..."
+
+case trigram
+    ABR|BAR)
+        echo "It's a troll !"
+        ;;
+    ABU)
+        echo "I can't see it"
+        ;;
+    DRO)
+        echo "I can't see it"
+        ;;
+    EPY)
+        echo "I can't see it"
+        ;;
+    FHG)
+        echo "Over 9000 !"
+        ;;
+    JDA)
+        echo "I can't see it"
+        ;;
+    JSG|HZG)
+        echo "I can't see it"
+        ;;
+    KNT)
+        echo "I can't see it"
+        ;;
+    LGT)
+        echo "I can't see it"
+        ;;
+    QBN|QBI)
+        echo "I can't see it"
+        ;;
+    TMU)
+        echo "I can't see it"
+        ;;
+    *)
+        echo "Sorry, I don't know you"
+        ;;
+esac
+
+echo "Bye bye"
+exit 1
