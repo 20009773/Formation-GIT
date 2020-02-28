@@ -32,10 +32,10 @@ case trigram
         echo "I can't see it"
         ;;
     LGT)
-        echo "I can't see it"
+        echo "regardes ses bracelets ! regardes ! lucifer qui me guide dans ma démarche"
         ;;
     QBN|QBI)
-        echo "I can't see it"
+        echo "heu salut c'est salut"
         ;;
     TMU)
         echo "I can't see it"
