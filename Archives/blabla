@@ -5,3 +5,4 @@
 
 var="Bla bla bla"
 echo "$var"
+echo "ALLEZ LE MEXIQUE!"

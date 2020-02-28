@@ -3,6 +3,9 @@
 # -------------------------------------------------
  
 
-var="Hello World"
+var="Hello Wor   ld"
 echo "$var"
 exit 1
+echo " ALLEZ LE MEXIQUE!"
+echo " TOTO"
+echo " MDR"
