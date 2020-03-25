@@ -14,28 +14,30 @@ case trigram
         echo "I can't see it"
         ;;
     DRO)
-        echo "I can't see it"
+        echo "Daniel Andre de la vega del barce del vamos a la playa"
         ;;
     EPY)
         echo "I can't see it"
         ;;
     FHG)
-        echo "Over 9000 !"
+        echo "BIG MELON"
         ;;
     JDA)
         echo "I can't see it"
         ;;
     JSG|HZG)
-        echo "I can't see it"
+        echo "THE BOSS"
         ;;
     KNT)
-        echo "I can't see it"
+        echo "C'est quoi la sauce ?"
         ;;
     LGT)
-        echo "I can't see it"
+        echo "regardes ses bracelets ! regardes ! lucifer qui me guide dans ma démarche"
         ;;
     QBN|QBI)
-        echo "I can't see it"
+        echo "heu salut c'est salut"
+        echo "Salut c'est PITCH"
+        echo "BEST BRO"
         ;;
     TMU)
         echo "I can't see it"
