@@ -29,4 +29,4 @@ jobs:
       run: |
         cd /home/runner/work/Formation-GIT/Formation-GIT/
         cat README.md
-.
+
